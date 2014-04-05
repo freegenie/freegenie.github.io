@@ -4,6 +4,8 @@ url: http://fabrizioregini.info
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 
+markdown: redcarpet
+
 # Theme customization - please change from the defaults!
 theme:
   # Color for top bar, links, etc
