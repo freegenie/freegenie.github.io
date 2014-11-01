@@ -1,7 +1,10 @@
 # General Jekyll Config
-pygments: true
+highlighter: true
 url: http://fabrizioregini.info
 lsi: false
+name: fabrizioregini.info
+url: http://fabrizioregini.info
+rss_path: /rss
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 
 markdown: redcarpet
